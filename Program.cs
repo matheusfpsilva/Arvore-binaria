@@ -1,4 +1,4 @@
-﻿namespace EX2
+﻿namespace Arvore-Binaria
 {
     internal class Program
     {
